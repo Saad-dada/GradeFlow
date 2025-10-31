@@ -63,7 +63,7 @@ A comprehensive, enterprise-grade student result analysis application with advan
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Saad-dada/GradeFlow.git
+   git clone https://github.com/Saad-dada/GradeFlow
    cd GradeFlow
    ```
 
